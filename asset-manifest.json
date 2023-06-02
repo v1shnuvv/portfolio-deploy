@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f875198d.css",
+    "main.js": "./static/js/main.b1e8727d.js",
+    "static/media/note-bg.jpg": "./static/media/note-bg.a2c12e17874393090c87.jpg",
+    "static/media/HTML5-logo.png": "./static/media/HTML5-logo.dbc3baa7e405494219e6.png",
+    "static/media/react-logo.png": "./static/media/react-logo.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/nodejs-logo.png": "./static/media/nodejs-logo.aa8bc616bb8252fa29f3.png",
+    "static/media/aws-logo.png": "./static/media/aws-logo.d3d1901047ca99025a10.png",
+    "static/media/css-logo.png": "./static/media/css-logo.bc75ccc78e3bf74f8aed.png",
+    "static/media/logo-mongodb.png": "./static/media/logo-mongodb.fb4252f586834a599462.png",
+    "index.html": "./index.html",
+    "main.f875198d.css.map": "./static/css/main.f875198d.css.map",
+    "main.b1e8727d.js.map": "./static/js/main.b1e8727d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f875198d.css",
+    "static/js/main.b1e8727d.js"
+  ]
+}
